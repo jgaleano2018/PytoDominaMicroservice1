@@ -1,9 +1,7 @@
 # PytoDominaMicroservice1 - Login
 # Technology
-  - React 18/17
-  - react-router-dom 6
-  - axios 0.27.2
-  - bootstrap 4
+  - Node JS
+  - Mysql
 # Install Depedendecies
   - npm install
   - npm install express sequelize mysql2 cors --save
