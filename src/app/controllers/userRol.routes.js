@@ -9,6 +9,6 @@ const router = express.Router();
 
 router.post("/userRol", postUserRol);
 router.get("/userRol", getUserRol);
-router.get("/userRol:id", getUserRolById);
+router.get("/userRol/:id", getUserRolById);
 
 export default router;
